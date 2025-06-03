@@ -18,7 +18,7 @@ from collections import defaultdict
 
 # --- 配置 ---
 BASE_URL = "https://api.toiotech.com/v1"
-API_KEY = "sk-Pf2sSgJ6HmV77mmk763c4f5353Ec48B89850CcF029Bd83B8"
+API_KEY = "your api"
 
 # 选定的2个模型
 SELECTED_MODELS = [
